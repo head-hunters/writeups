@@ -97,6 +97,22 @@
 
 ---
 
+## 🧬 MITRE ATT&CK Summary for Tropic Trooper
+
+| Tactic              | Technique                        | ID         |
+|---------------------|-----------------------------------|------------|
+| Initial Access      | Spearphishing Attachment          | T1566.001  |
+| Initial Access      | Replication via Removable Media   | T1091      |
+| Initial Access      | Valid Accounts – Local Accounts   | T1078.003  |
+| Privilege Escalation| Local Accounts                    | T1078.003  |
+| Persistence         | Local Accounts                    | T1078.003  |
+| Defense Evasion     | Local Accounts                    | T1078.003  |
+| Collection          | Automated Collection              | T1119      |
+| Tools               | BITSAdmin                         | —          |
+| Malware             | USBferry                          | —          |
+
+---
+
 ## 🧠 Key Takeaways
 
 - Navigated and cross-referenced threat data between **MITRE ATT&CK** and **OpenCTI**
