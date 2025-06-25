@@ -13,8 +13,7 @@
 
 - [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)
 - [OpenCTI](https://www.opencti.io/)
-- Threat Report (provided in the room)
-
+- [Threat Report](https://www.trendmicro.com/en_th/research/18/c/tropic-trooper-new-strategy.html)
 ---
 
 ## 📌 Questions & Answers
