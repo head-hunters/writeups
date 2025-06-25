@@ -1,6 +1,6 @@
 # TryHackMe Write-Up: Trooper
 
-## 📄 Overview
+## Overview
 
 - **Room**: [Trooper](https://tryhackme.com/room/trooper)
 - **Difficulty**: Medium
