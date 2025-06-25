@@ -1,4 +1,4 @@
-# 🧠 TryHackMe Write-Up: Trooper
+# TryHackMe Write-Up: Trooper
 
 ## 📄 Overview
 
@@ -9,14 +9,14 @@
 
 ---
 
-## 🧪 Tools & Platforms Used
+## Tools & Platforms Used
 
 - [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)
 - [OpenCTI](https://www.opencti.io/)
 - [Threat Report](https://www.trendmicro.com/en_th/research/18/c/tropic-trooper-new-strategy.html)
 ---
 
-## 📌 Questions & Answers
+## Questions & Answers
 
 ### 1. **What kind of phishing campaign does APT X use?**
 - Navigated to **MITRE ATT&CK Navigator → Initial Access**
@@ -97,7 +97,7 @@
 
 ---
 
-## 🧬 MITRE ATT&CK Summary for Tropic Trooper
+## MITRE ATT&CK Summary for Tropic Trooper
 
 | Tactic              | Technique                        | ID         |
 |---------------------|-----------------------------------|------------|
@@ -113,7 +113,7 @@
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
 - Navigated and cross-referenced threat data between **MITRE ATT&CK** and **OpenCTI**
 - Practiced identifying **TTPs** (tactics, techniques, procedures) from STIX objects and threat reports
@@ -122,7 +122,7 @@
 
 ---
 
-## 🔗 References
+## References
 
 - [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)
 - [OpenCTI](https://www.opencti.io/)
